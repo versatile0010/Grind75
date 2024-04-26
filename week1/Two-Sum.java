@@ -1,6 +1,7 @@
 /**
     - https://leetcode.com/problems/two-sum/
     - O(n)
+    - easy
  */
 
 import java.util.*;
